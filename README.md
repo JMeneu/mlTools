@@ -1,5 +1,5 @@
 <img width="300" style="float:center" 
-     src="https://i.imgur.com/AcwcK6n.png" />
+     src="https://i.imgur.com/k4Ux2aL.png" />
 
 
 
